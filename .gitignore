@@ -4,4 +4,4 @@ _site
 .jekyll-metadata
 vendor
 /_local_config.yml
-/.vs/ProjectSettings.json
+.vs
