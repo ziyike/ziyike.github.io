@@ -1,4 +1,9 @@
-# ziyike.github.io
+---
+layout: page
+title: About
+permalink: /about/
+
+---
 
 You can call me K, and this is my personal blog.
 Well, just a fragment of it, the part that's related to coding.
