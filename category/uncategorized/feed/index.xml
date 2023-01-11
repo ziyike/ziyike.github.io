@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Lone Sail At Dusk | IO</title>
-	<atom:link href="./index.html?simply_static_page=39" rel="self" type="application/rss+xml" />
-	<link>./index.html</link>
+	<title>Uncategorized &#8211; Lone Sail At Dusk | IO</title>
+	<atom:link href="./index.html?simply_static_page=68" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 03 Jan 2023 15:03:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>./2023/01-03/1/index.html</link>
-					<comments>./2023/01-03/1/index.html#comments</comments>
+		<link>./../../2023/01-03/1/index.html</link>
+					<comments>./../../2023/01-03/1/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[lsad]]></dc:creator>
 		<pubDate>Tue, 03 Jan 2023 15:03:19 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./index.html?p=1</guid>
+		<guid isPermaLink="false">./../../index.html?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./2023/01-03/1/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>./../../2023/01-03/1/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

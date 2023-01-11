@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Lone Sail At Dusk | IO	</title>
-	<atom:link href="./index.html?simply_static_page=40" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="./index.html?simply_static_page=63" rel="self" type="application/rss+xml" />
+	<link>./index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 03 Jan 2023 15:03:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>./../2023/01-03/1/index.html#comment-1</link>
+		By: A WordPress Commenter		</title>
+		<link>./index.html#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 03 Jan 2023 15:03:19 +0000</pubDate>
-		<guid isPermaLink="false">./../index.html?p=1#comment-1</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
